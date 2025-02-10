@@ -1,4 +1,4 @@
-# RepositorioTemplate
+# TemplateBackEnd
 Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
 **!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
 
